@@ -1,4 +1,4 @@
-## Hi, I’m Eyinade (bee-analyst)
+## Hi, I’m Eyinade Blessing (bee-analyst)
 I’m a Data Analyst passionate about transforming raw data into meaningful business insights.
 With strong foundations in SQL and Business Intelligence tools, I focus on building data-driven solutions that support smarter decision-making.
 
@@ -42,12 +42,3 @@ Python for deeper analytics and automation
 I’m open to collaborating on data projects, contributing to analytical work, and exploring new opportunities.
 
 LinkedIn: (https://www.linkedin.com/in/eyinade-blessing-a4211b2b7/)
-
-GitHub Projects: Explore my repositories below 👇
-
-# 💡 Why This README Works
-It shows tools and business impact
-It positions you as job-ready
-It sounds confident but not arrogant
-
-It speaks directly to recruiters
