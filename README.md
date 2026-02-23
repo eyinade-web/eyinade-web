@@ -43,4 +43,3 @@ I’d love to collaborate or chat about data, BI, or analytics roles:
 
 I enjoy exploring real-world datasets and turning them into interactive, insightful dashboards 
 
-Include screenshots or GIFs of dashboards or visual work in your repos to draw attention.
