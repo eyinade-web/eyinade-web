@@ -1,44 +1,46 @@
-## Hi, I’m Eyinade Blessing (bee-analyst)
-I’m a Data Analyst passionate about transforming raw data into meaningful business insights.
-With strong foundations in SQL and Business Intelligence tools, I focus on building data-driven solutions that support smarter decision-making.
+# Hi there, I’m Eyinade Blessing 
 
-I am currently open to opportunities as a Junior Data Analyst, BI Analyst, Remote Analyst, or Freelance Data Analyst.
+I’m a Business Intelligence Analyst who loves turning data into insights that help teams make smarter decisions. I specialize in Power BI, SQL, Excel, and Python — and I enjoy building dashboards and analytics solutions that make complex data easy to understand.
 
-## Technical Skills
-SQL (Advanced querying, aggregation, joins, subqueries)
-PostgreSQL
-Microsoft Excel (Data cleaning, formulas, pivot tables, dashboards)
-Power BI (Interactive dashboards, DAX, data modeling)
-Python (Data analysis with pandas, basic automation)
+📊 My work blends strong analytical skills with real-world business impact.
+
+# What I Do
+
+💡 Build interactive dashboards with Power BI
+🧠 Transform raw data into clear, actionable insights
+📈 Perform data analysis using SQL & Excel
+🐍 Use Python for data cleaning, visualization & automation
+🛠️ Help teams discover trends, solve problems, and drive growth
 
 # Featured Projects
-🔹 Sales-Performance-PowerBI
-An interactive Power BI dashboard analyzing sales performance trends.
 
-# What I did:
-Cleaned and transformed raw sales data
-Built dynamic dashboards with slicers and KPIs
-Identified top-performing products and regional trends
-Presented insights for business decision-making
+Here are some projects that showcase my hands-on experience and passion for data:
 
-This project demonstrates my ability to turn raw business data into visual, actionable intelligence.
+✨ Sales Performance Dashboard – Interactive Power BI dashboard that tracks sales KPIs and helps stakeholders monitor performance.
+✨ Sales Analysis (SQL) – Deep dive into sales data using SQL queries to reveal trends and insights.
+✨ Excel Sales Data Cleaning & Dashboard – Cleaned messy datasets and built useful dashboards in Excel.
+✨ Online Retail SQL Analysis – Analyzed a COVID-19 era retail dataset to extract meaningful business insights.
 
-# 🔹 Online-Retail-SQL-Analysis
-A full SQL-based analysis of an online retail dataset using PostgreSQL.
+# Tech & Tools
 
-# What I did:
-Wrote complex SQL queries (JOIN, GROUP BY, HAVING, subqueries)
-Analyzed customer behavior and revenue trends
-Identified best-selling products and high-value customers
-Generated business-focused insights directly from the database
-This project showcases strong SQL querying and analytical thinking.
+Here are some of the tools I use regularly:
 
-# Currently Improving
-Advanced SQL optimization
-Data storytelling techniques
-Python for deeper analytics and automation
+Data & Analysis: Power BI • SQL • Excel • Python
+Visualization: Power BI Dashboards • Charts & Graphs
+Data Handling: Data transformation • Cleaning • Modeling
 
-# 🤝 Let’s Connect
-I’m open to collaborating on data projects, contributing to analytical work, and exploring new opportunities.
+# Let’s Connect
 
-LinkedIn: (https://www.linkedin.com/in/eyinade-blessing-a4211b2b7/)
+I’d love to collaborate or chat about data, BI, or analytics roles:
+
+🔗 LinkedIn: https://www.linkedin.com/in/eyinade-blessing-a4211b2b7
+
+🌐 Linktree: https://linktr.ee/eyinadeomolara
+
+📸 Instagram: https://www.instagram.com/eyinadeblessingomolara/?hl=en
+
+# Fun Fact
+
+I enjoy exploring real-world datasets and turning them into interactive, insightful dashboards 
+
+Include screenshots or GIFs of dashboards or visual work in your repos to draw attention.
